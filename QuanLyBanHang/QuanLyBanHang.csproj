@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classtest.cs" />
     <Compile Include="CTHD.cs">
       <DependentUpon>sqlModel.tt</DependentUpon>
     </Compile>
