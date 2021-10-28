@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6027928d7fb54ac49584db8c28016c0b" Name="Diagram1">
+        <EntityTypeShape EntityType="SQLBANHANGModel.CTHD" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBANHANGModel.HOADON" Width="1.5" PointX="3" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBANHANGModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBANHANGModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBANHANGModel.SANPHAM" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBANHANGModel.sysdiagram" Width="1.5" PointX="5.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBANHANGModel.TAIKHOAN" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <AssociationConnector Association="SQLBANHANGModel.FK_CTHD_HOADON" ManuallyRouted="false" />
+        <AssociationConnector Association="SQLBANHANGModel.FK_CTHD_SANPHAM" ManuallyRouted="false" />
+        <AssociationConnector Association="SQLBANHANGModel.FK_HOADON_KHACHHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="SQLBANHANGModel.FK_HOADON_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="SQLBANHANGModel.FK_TAIKHOAN_NHANVIEN" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

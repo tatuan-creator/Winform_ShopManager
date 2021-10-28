@@ -1,0 +1,71 @@
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dangNhap.resources
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormMain.resources
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.thanhToan.resources
+C:\Users\ThaiDuong\OneDrive\Máy tính\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Test.resources
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dangNhap.resources
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormMain.resources
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Test.resources
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.thanhToan.resources
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ASUS\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dangNhap.resources
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormMain.resources
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Test.resources
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.thanhToan.resources
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dangNhap.resources
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormMain.resources
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Test.resources
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.thanhToan.resources
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
