@@ -69,3 +69,21 @@ C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBan
 C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
 C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
 C:\Users\Tran Anh\Downloads\DoAn\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\bin\Debug\EntityFramework.dll
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\bin\Debug\EntityFramework.xml
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.dangNhap.resources
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormMain.resources
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.Test.resources
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.thanhToan.resources
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\thien\Desktop\=TiTi=\DO AN WIN\DoAnWinform\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
