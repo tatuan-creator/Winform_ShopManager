@@ -106,39 +106,38 @@ namespace QuanLyBanHang
             this.pnMain.Controls.Add(this.tbMaSanPham);
             this.pnMain.Controls.Add(this.tbSoHoaDon);
             this.pnMain.Controls.Add(this.textBox1);
-            this.pnMain.Location = new System.Drawing.Point(141, 71);
-            this.pnMain.Margin = new System.Windows.Forms.Padding(2);
+            this.pnMain.Location = new System.Drawing.Point(188, 87);
+            this.pnMain.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pnMain.Name = "pnMain";
-            this.pnMain.Size = new System.Drawing.Size(633, 371);
+            this.pnMain.Size = new System.Drawing.Size(844, 457);
             this.pnMain.TabIndex = 1;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(525, 60);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(700, 74);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(40, 13);
+            this.label1.Size = new System.Drawing.Size(50, 17);
             this.label1.TabIndex = 16;
             this.label1.Text = "Mã KH";
             // 
             // tbMaKH
             // 
             this.tbMaKH.BackColor = System.Drawing.Color.White;
-            this.tbMaKH.Location = new System.Drawing.Point(431, 57);
-            this.tbMaKH.Margin = new System.Windows.Forms.Padding(2);
+            this.tbMaKH.Location = new System.Drawing.Point(575, 70);
+            this.tbMaKH.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbMaKH.Name = "tbMaKH";
-            this.tbMaKH.Size = new System.Drawing.Size(82, 20);
+            this.tbMaKH.Size = new System.Drawing.Size(108, 22);
             this.tbMaKH.TabIndex = 2;
             // 
             // btXem
             // 
             this.btXem.BackColor = System.Drawing.Color.Pink;
             this.btXem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btXem.Location = new System.Drawing.Point(510, 278);
-            this.btXem.Margin = new System.Windows.Forms.Padding(2);
+            this.btXem.Location = new System.Drawing.Point(681, 342);
+            this.btXem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btXem.Name = "btXem";
-            this.btXem.Size = new System.Drawing.Size(75, 41);
+            this.btXem.Size = new System.Drawing.Size(111, 50);
             this.btXem.TabIndex = 9;
             this.btXem.Text = "Tải Lại";
             this.btXem.UseVisualStyleBackColor = false;
@@ -147,10 +146,10 @@ namespace QuanLyBanHang
             // numberSL
             // 
             this.numberSL.BackColor = System.Drawing.Color.White;
-            this.numberSL.Location = new System.Drawing.Point(431, 132);
-            this.numberSL.Margin = new System.Windows.Forms.Padding(2);
+            this.numberSL.Location = new System.Drawing.Point(575, 162);
+            this.numberSL.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.numberSL.Name = "numberSL";
-            this.numberSL.Size = new System.Drawing.Size(81, 20);
+            this.numberSL.Size = new System.Drawing.Size(108, 22);
             this.numberSL.TabIndex = 4;
             this.numberSL.ValueChanged += new System.EventHandler(this.numberSL_ValueChanged);
             // 
@@ -159,10 +158,10 @@ namespace QuanLyBanHang
             this.btTimKiem.BackColor = System.Drawing.Color.Turquoise;
             this.btTimKiem.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btTimKiem.ForeColor = System.Drawing.Color.White;
-            this.btTimKiem.Location = new System.Drawing.Point(212, 35);
-            this.btTimKiem.Margin = new System.Windows.Forms.Padding(2);
+            this.btTimKiem.Location = new System.Drawing.Point(283, 43);
+            this.btTimKiem.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btTimKiem.Name = "btTimKiem";
-            this.btTimKiem.Size = new System.Drawing.Size(102, 35);
+            this.btTimKiem.Size = new System.Drawing.Size(136, 43);
             this.btTimKiem.TabIndex = 12;
             this.btTimKiem.Text = "Tim Kiếm";
             this.btTimKiem.UseVisualStyleBackColor = false;
@@ -173,12 +172,12 @@ namespace QuanLyBanHang
             this.dataGridView1.AllowDrop = true;
             this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(15, 78);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2);
+            this.dataGridView1.Location = new System.Drawing.Point(20, 96);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(400, 258);
+            this.dataGridView1.Size = new System.Drawing.Size(533, 318);
             this.dataGridView1.TabIndex = 6;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -187,10 +186,10 @@ namespace QuanLyBanHang
             this.btThanhToan.AutoSize = true;
             this.btThanhToan.BackColor = System.Drawing.Color.Salmon;
             this.btThanhToan.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btThanhToan.Location = new System.Drawing.Point(431, 323);
-            this.btThanhToan.Margin = new System.Windows.Forms.Padding(2);
+            this.btThanhToan.Location = new System.Drawing.Point(575, 398);
+            this.btThanhToan.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btThanhToan.Name = "btThanhToan";
-            this.btThanhToan.Size = new System.Drawing.Size(154, 41);
+            this.btThanhToan.Size = new System.Drawing.Size(217, 50);
             this.btThanhToan.TabIndex = 10;
             this.btThanhToan.Text = "Thanh Toán";
             this.btThanhToan.UseVisualStyleBackColor = false;
@@ -202,10 +201,10 @@ namespace QuanLyBanHang
             this.btXoa.BackColor = System.Drawing.Color.Red;
             this.btXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btXoa.ForeColor = System.Drawing.Color.White;
-            this.btXoa.Location = new System.Drawing.Point(344, 35);
-            this.btXoa.Margin = new System.Windows.Forms.Padding(2);
+            this.btXoa.Location = new System.Drawing.Point(459, 43);
+            this.btXoa.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btXoa.Name = "btXoa";
-            this.btXoa.Size = new System.Drawing.Size(70, 35);
+            this.btXoa.Size = new System.Drawing.Size(93, 43);
             this.btXoa.TabIndex = 13;
             this.btXoa.Text = "Xóa";
             this.btXoa.UseVisualStyleBackColor = false;
@@ -216,10 +215,10 @@ namespace QuanLyBanHang
             this.btSua.AutoSize = true;
             this.btSua.BackColor = System.Drawing.Color.Pink;
             this.btSua.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btSua.Location = new System.Drawing.Point(431, 278);
-            this.btSua.Margin = new System.Windows.Forms.Padding(2);
+            this.btSua.Location = new System.Drawing.Point(575, 342);
+            this.btSua.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btSua.Name = "btSua";
-            this.btSua.Size = new System.Drawing.Size(75, 41);
+            this.btSua.Size = new System.Drawing.Size(108, 50);
             this.btSua.TabIndex = 8;
             this.btSua.Text = "Sửa";
             this.btSua.UseVisualStyleBackColor = false;
@@ -229,10 +228,10 @@ namespace QuanLyBanHang
             // 
             this.btThoat.AutoSize = true;
             this.btThoat.BackColor = System.Drawing.SystemColors.Info;
-            this.btThoat.Location = new System.Drawing.Point(14, 340);
-            this.btThoat.Margin = new System.Windows.Forms.Padding(2);
+            this.btThoat.Location = new System.Drawing.Point(19, 418);
+            this.btThoat.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btThoat.Name = "btThoat";
-            this.btThoat.Size = new System.Drawing.Size(45, 24);
+            this.btThoat.Size = new System.Drawing.Size(73, 33);
             this.btThoat.TabIndex = 14;
             this.btThoat.Text = "Thoát";
             this.btThoat.UseVisualStyleBackColor = false;
@@ -241,60 +240,54 @@ namespace QuanLyBanHang
             // lbThanhTien
             // 
             this.lbThanhTien.AutoSize = true;
-            this.lbThanhTien.Location = new System.Drawing.Point(525, 243);
-            this.lbThanhTien.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbThanhTien.Location = new System.Drawing.Point(700, 299);
             this.lbThanhTien.Name = "lbThanhTien";
-            this.lbThanhTien.Size = new System.Drawing.Size(62, 13);
+            this.lbThanhTien.Size = new System.Drawing.Size(81, 17);
             this.lbThanhTien.TabIndex = 4;
             this.lbThanhTien.Text = "Thành Tiền";
             // 
             // lbDiscount
             // 
             this.lbDiscount.AutoSize = true;
-            this.lbDiscount.Location = new System.Drawing.Point(525, 209);
-            this.lbDiscount.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbDiscount.Location = new System.Drawing.Point(700, 257);
             this.lbDiscount.Name = "lbDiscount";
-            this.lbDiscount.Size = new System.Drawing.Size(60, 13);
+            this.lbDiscount.Size = new System.Drawing.Size(79, 17);
             this.lbDiscount.TabIndex = 4;
             this.lbDiscount.Text = "Discount %";
             // 
             // lbDonGia
             // 
             this.lbDonGia.AutoSize = true;
-            this.lbDonGia.Location = new System.Drawing.Point(525, 173);
-            this.lbDonGia.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbDonGia.Location = new System.Drawing.Point(700, 213);
             this.lbDonGia.Name = "lbDonGia";
-            this.lbDonGia.Size = new System.Drawing.Size(46, 13);
+            this.lbDonGia.Size = new System.Drawing.Size(60, 17);
             this.lbDonGia.TabIndex = 4;
             this.lbDonGia.Text = "Đơn Giá";
             // 
             // lbSoLuong
             // 
             this.lbSoLuong.AutoSize = true;
-            this.lbSoLuong.Location = new System.Drawing.Point(525, 134);
-            this.lbSoLuong.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbSoLuong.Location = new System.Drawing.Point(700, 165);
             this.lbSoLuong.Name = "lbSoLuong";
-            this.lbSoLuong.Size = new System.Drawing.Size(53, 13);
+            this.lbSoLuong.Size = new System.Drawing.Size(69, 17);
             this.lbSoLuong.TabIndex = 4;
             this.lbSoLuong.Text = "Số Lượng";
             // 
             // lbMaSanPham
             // 
             this.lbMaSanPham.AutoSize = true;
-            this.lbMaSanPham.Location = new System.Drawing.Point(525, 98);
-            this.lbMaSanPham.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbMaSanPham.Location = new System.Drawing.Point(700, 121);
             this.lbMaSanPham.Name = "lbMaSanPham";
-            this.lbMaSanPham.Size = new System.Drawing.Size(74, 13);
+            this.lbMaSanPham.Size = new System.Drawing.Size(96, 17);
             this.lbMaSanPham.TabIndex = 4;
             this.lbMaSanPham.Text = "Mã Sản Phẩm";
             // 
             // lbSoHoaDon
             // 
             this.lbSoHoaDon.AutoSize = true;
-            this.lbSoHoaDon.Location = new System.Drawing.Point(525, 27);
-            this.lbSoHoaDon.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbSoHoaDon.Location = new System.Drawing.Point(700, 33);
             this.lbSoHoaDon.Name = "lbSoHoaDon";
-            this.lbSoHoaDon.Size = new System.Drawing.Size(66, 13);
+            this.lbSoHoaDon.Size = new System.Drawing.Size(85, 17);
             this.lbSoHoaDon.TabIndex = 4;
             this.lbSoHoaDon.Text = "Số Hóa Đơn";
             // 
@@ -304,10 +297,9 @@ namespace QuanLyBanHang
             this.lbtiemKiem.AutoSize = true;
             this.lbtiemKiem.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbtiemKiem.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.lbtiemKiem.Location = new System.Drawing.Point(15, 16);
-            this.lbtiemKiem.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbtiemKiem.Location = new System.Drawing.Point(20, 20);
             this.lbtiemKiem.Name = "lbtiemKiem";
-            this.lbtiemKiem.Size = new System.Drawing.Size(91, 16);
+            this.lbtiemKiem.Size = new System.Drawing.Size(110, 20);
             this.lbtiemKiem.TabIndex = 4;
             this.lbtiemKiem.Text = "Số Hóa Đơn";
             this.lbtiemKiem.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -316,57 +308,57 @@ namespace QuanLyBanHang
             // tbThanhTien
             // 
             this.tbThanhTien.BackColor = System.Drawing.Color.White;
-            this.tbThanhTien.Location = new System.Drawing.Point(431, 240);
-            this.tbThanhTien.Margin = new System.Windows.Forms.Padding(2);
+            this.tbThanhTien.Location = new System.Drawing.Point(575, 295);
+            this.tbThanhTien.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbThanhTien.Name = "tbThanhTien";
-            this.tbThanhTien.Size = new System.Drawing.Size(82, 20);
+            this.tbThanhTien.Size = new System.Drawing.Size(108, 22);
             this.tbThanhTien.TabIndex = 7;
             // 
             // tbDiscount
             // 
             this.tbDiscount.BackColor = System.Drawing.Color.White;
-            this.tbDiscount.Location = new System.Drawing.Point(431, 205);
-            this.tbDiscount.Margin = new System.Windows.Forms.Padding(2);
+            this.tbDiscount.Location = new System.Drawing.Point(575, 252);
+            this.tbDiscount.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbDiscount.Name = "tbDiscount";
-            this.tbDiscount.Size = new System.Drawing.Size(82, 20);
+            this.tbDiscount.Size = new System.Drawing.Size(108, 22);
             this.tbDiscount.TabIndex = 6;
             this.tbDiscount.TextChanged += new System.EventHandler(this.tbDiscount_TextChanged);
             // 
             // tbDonGia
             // 
             this.tbDonGia.BackColor = System.Drawing.Color.White;
-            this.tbDonGia.Location = new System.Drawing.Point(431, 170);
-            this.tbDonGia.Margin = new System.Windows.Forms.Padding(2);
+            this.tbDonGia.Location = new System.Drawing.Point(575, 209);
+            this.tbDonGia.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbDonGia.Name = "tbDonGia";
-            this.tbDonGia.Size = new System.Drawing.Size(82, 20);
+            this.tbDonGia.Size = new System.Drawing.Size(108, 22);
             this.tbDonGia.TabIndex = 5;
             this.tbDonGia.TextChanged += new System.EventHandler(this.tbDonGia_TextChanged);
             // 
             // tbMaSanPham
             // 
             this.tbMaSanPham.BackColor = System.Drawing.Color.White;
-            this.tbMaSanPham.Location = new System.Drawing.Point(431, 94);
-            this.tbMaSanPham.Margin = new System.Windows.Forms.Padding(2);
+            this.tbMaSanPham.Location = new System.Drawing.Point(575, 116);
+            this.tbMaSanPham.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbMaSanPham.Name = "tbMaSanPham";
-            this.tbMaSanPham.Size = new System.Drawing.Size(82, 20);
+            this.tbMaSanPham.Size = new System.Drawing.Size(108, 22);
             this.tbMaSanPham.TabIndex = 3;
             // 
             // tbSoHoaDon
             // 
             this.tbSoHoaDon.BackColor = System.Drawing.Color.White;
-            this.tbSoHoaDon.Location = new System.Drawing.Point(431, 23);
-            this.tbSoHoaDon.Margin = new System.Windows.Forms.Padding(2);
+            this.tbSoHoaDon.Location = new System.Drawing.Point(575, 28);
+            this.tbSoHoaDon.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.tbSoHoaDon.Name = "tbSoHoaDon";
-            this.tbSoHoaDon.Size = new System.Drawing.Size(82, 20);
+            this.tbSoHoaDon.Size = new System.Drawing.Size(108, 22);
             this.tbSoHoaDon.TabIndex = 1;
             // 
             // textBox1
             // 
             this.textBox1.BackColor = System.Drawing.Color.White;
-            this.textBox1.Location = new System.Drawing.Point(16, 38);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox1.Location = new System.Drawing.Point(21, 47);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(125, 20);
+            this.textBox1.Size = new System.Drawing.Size(165, 22);
             this.textBox1.TabIndex = 11;
             // 
             // panel3
@@ -374,20 +366,19 @@ namespace QuanLyBanHang
             this.panel3.BackColor = System.Drawing.Color.Transparent;
             this.panel3.Controls.Add(this.lbTime);
             this.panel3.Controls.Add(this.lbTrangThai);
-            this.panel3.Location = new System.Drawing.Point(140, -2);
-            this.panel3.Margin = new System.Windows.Forms.Padding(2);
+            this.panel3.Location = new System.Drawing.Point(187, -2);
+            this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(633, 76);
+            this.panel3.Size = new System.Drawing.Size(844, 94);
             this.panel3.TabIndex = 2;
             // 
             // lbTime
             // 
             this.lbTime.AutoSize = true;
             this.lbTime.ForeColor = System.Drawing.Color.Yellow;
-            this.lbTime.Location = new System.Drawing.Point(325, 43);
-            this.lbTime.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbTime.Location = new System.Drawing.Point(433, 53);
             this.lbTime.Name = "lbTime";
-            this.lbTime.Size = new System.Drawing.Size(0, 13);
+            this.lbTime.Size = new System.Drawing.Size(0, 17);
             this.lbTime.TabIndex = 0;
             // 
             // lbTrangThai
@@ -395,10 +386,9 @@ namespace QuanLyBanHang
             this.lbTrangThai.AutoSize = true;
             this.lbTrangThai.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbTrangThai.ForeColor = System.Drawing.Color.White;
-            this.lbTrangThai.Location = new System.Drawing.Point(4, 25);
-            this.lbTrangThai.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbTrangThai.Location = new System.Drawing.Point(5, 31);
             this.lbTrangThai.Name = "lbTrangThai";
-            this.lbTrangThai.Size = new System.Drawing.Size(142, 31);
+            this.lbTrangThai.Size = new System.Drawing.Size(170, 38);
             this.lbTrangThai.TabIndex = 0;
             this.lbTrangThai.Text = "Bán Hàng";
             // 
@@ -406,10 +396,10 @@ namespace QuanLyBanHang
             // 
             this.pnThongKe.BackColor = System.Drawing.Color.Transparent;
             this.pnThongKe.Controls.Add(this.lbThongKe);
-            this.pnThongKe.Location = new System.Drawing.Point(5, 158);
-            this.pnThongKe.Margin = new System.Windows.Forms.Padding(2);
+            this.pnThongKe.Location = new System.Drawing.Point(7, 194);
+            this.pnThongKe.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pnThongKe.Name = "pnThongKe";
-            this.pnThongKe.Size = new System.Drawing.Size(134, 50);
+            this.pnThongKe.Size = new System.Drawing.Size(179, 62);
             this.pnThongKe.TabIndex = 3;
             this.pnThongKe.Paint += new System.Windows.Forms.PaintEventHandler(this.pnThongKe_Paint);
             this.pnThongKe.MouseLeave += new System.EventHandler(this.pnThongKe_MouseLeave);
@@ -420,10 +410,9 @@ namespace QuanLyBanHang
             this.lbThongKe.AutoSize = true;
             this.lbThongKe.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbThongKe.ForeColor = System.Drawing.Color.White;
-            this.lbThongKe.Location = new System.Drawing.Point(10, 12);
-            this.lbThongKe.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbThongKe.Location = new System.Drawing.Point(13, 15);
             this.lbThongKe.Name = "lbThongKe";
-            this.lbThongKe.Size = new System.Drawing.Size(113, 26);
+            this.lbThongKe.Size = new System.Drawing.Size(146, 32);
             this.lbThongKe.TabIndex = 15;
             this.lbThongKe.Text = "Thống Kê";
             this.lbThongKe.Click += new System.EventHandler(this.lbThongKe_Click);
@@ -434,10 +423,10 @@ namespace QuanLyBanHang
             // 
             this.pnSanPham.BackColor = System.Drawing.Color.Transparent;
             this.pnSanPham.Controls.Add(this.lbSanPham);
-            this.pnSanPham.Location = new System.Drawing.Point(5, 110);
-            this.pnSanPham.Margin = new System.Windows.Forms.Padding(2);
+            this.pnSanPham.Location = new System.Drawing.Point(7, 135);
+            this.pnSanPham.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pnSanPham.Name = "pnSanPham";
-            this.pnSanPham.Size = new System.Drawing.Size(134, 50);
+            this.pnSanPham.Size = new System.Drawing.Size(179, 62);
             this.pnSanPham.TabIndex = 4;
             this.pnSanPham.MouseLeave += new System.EventHandler(this.pnSanPham_MouseLeave);
             this.pnSanPham.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pnSanPham_MouseMove);
@@ -448,10 +437,9 @@ namespace QuanLyBanHang
             this.lbSanPham.BackColor = System.Drawing.Color.Transparent;
             this.lbSanPham.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbSanPham.ForeColor = System.Drawing.Color.White;
-            this.lbSanPham.Location = new System.Drawing.Point(8, 11);
-            this.lbSanPham.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbSanPham.Location = new System.Drawing.Point(11, 14);
             this.lbSanPham.Name = "lbSanPham";
-            this.lbSanPham.Size = new System.Drawing.Size(123, 26);
+            this.lbSanPham.Size = new System.Drawing.Size(155, 32);
             this.lbSanPham.TabIndex = 14;
             this.lbSanPham.Text = "Sản Phẩm";
             this.lbSanPham.Click += new System.EventHandler(this.lbSanPham_Click);
@@ -462,10 +450,10 @@ namespace QuanLyBanHang
             // 
             this.pnDonHang.BackColor = System.Drawing.Color.Transparent;
             this.pnDonHang.Controls.Add(this.lbDonHang);
-            this.pnDonHang.Location = new System.Drawing.Point(5, 57);
-            this.pnDonHang.Margin = new System.Windows.Forms.Padding(2);
+            this.pnDonHang.Location = new System.Drawing.Point(7, 70);
+            this.pnDonHang.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pnDonHang.Name = "pnDonHang";
-            this.pnDonHang.Size = new System.Drawing.Size(134, 50);
+            this.pnDonHang.Size = new System.Drawing.Size(179, 62);
             this.pnDonHang.TabIndex = 2;
             this.pnDonHang.Paint += new System.Windows.Forms.PaintEventHandler(this.pnDonHang_Paint);
             this.pnDonHang.MouseLeave += new System.EventHandler(this.pnDonHang_MouseLeave);
@@ -476,10 +464,9 @@ namespace QuanLyBanHang
             this.lbDonHang.AutoSize = true;
             this.lbDonHang.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbDonHang.ForeColor = System.Drawing.Color.White;
-            this.lbDonHang.Location = new System.Drawing.Point(10, 11);
-            this.lbDonHang.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbDonHang.Location = new System.Drawing.Point(13, 14);
             this.lbDonHang.Name = "lbDonHang";
-            this.lbDonHang.Size = new System.Drawing.Size(118, 26);
+            this.lbDonHang.Size = new System.Drawing.Size(150, 32);
             this.lbDonHang.TabIndex = 13;
             this.lbDonHang.Text = "Đơn Hàng";
             this.lbDonHang.Click += new System.EventHandler(this.lbDonHang_Click);
@@ -491,10 +478,10 @@ namespace QuanLyBanHang
             this.pnTrangChu.BackColor = System.Drawing.Color.Transparent;
             this.pnTrangChu.Controls.Add(this.lbTrangChu);
             this.pnTrangChu.ForeColor = System.Drawing.Color.Transparent;
-            this.pnTrangChu.Location = new System.Drawing.Point(5, 2);
-            this.pnTrangChu.Margin = new System.Windows.Forms.Padding(2);
+            this.pnTrangChu.Location = new System.Drawing.Point(7, 2);
+            this.pnTrangChu.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pnTrangChu.Name = "pnTrangChu";
-            this.pnTrangChu.Size = new System.Drawing.Size(134, 50);
+            this.pnTrangChu.Size = new System.Drawing.Size(179, 62);
             this.pnTrangChu.TabIndex = 1;
             this.pnTrangChu.Paint += new System.Windows.Forms.PaintEventHandler(this.pnTrangChu_Paint);
             this.pnTrangChu.MouseLeave += new System.EventHandler(this.pnTrangChu_MouseLeave);
@@ -506,10 +493,9 @@ namespace QuanLyBanHang
             this.lbTrangChu.AutoSize = true;
             this.lbTrangChu.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbTrangChu.ForeColor = System.Drawing.Color.White;
-            this.lbTrangChu.Location = new System.Drawing.Point(6, 11);
-            this.lbTrangChu.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lbTrangChu.Location = new System.Drawing.Point(8, 14);
             this.lbTrangChu.Name = "lbTrangChu";
-            this.lbTrangChu.Size = new System.Drawing.Size(122, 26);
+            this.lbTrangChu.Size = new System.Drawing.Size(157, 32);
             this.lbTrangChu.TabIndex = 12;
             this.lbTrangChu.Text = "Trang Chủ";
             this.lbTrangChu.Click += new System.EventHandler(this.lbTrangChu_Click);
@@ -523,18 +509,19 @@ namespace QuanLyBanHang
             this.panel1.Controls.Add(this.pnDonHang);
             this.panel1.Controls.Add(this.pnSanPham);
             this.panel1.Controls.Add(this.pnThongKe);
-            this.panel1.Location = new System.Drawing.Point(-2, 116);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(-3, 143);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(142, 248);
+            this.panel1.Size = new System.Drawing.Size(189, 305);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // flowLayoutPanel1
             // 
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(1, 51);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(1, 63);
+            this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(8, 8);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(11, 10);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // ptbLoGo
@@ -543,23 +530,24 @@ namespace QuanLyBanHang
             this.ptbLoGo.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("ptbLoGo.BackgroundImage")));
             this.ptbLoGo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ptbLoGo.Controls.Add(this.flowLayoutPanel1);
-            this.ptbLoGo.Location = new System.Drawing.Point(2, 2);
+            this.ptbLoGo.Location = new System.Drawing.Point(3, 2);
+            this.ptbLoGo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ptbLoGo.Name = "ptbLoGo";
-            this.ptbLoGo.Size = new System.Drawing.Size(135, 112);
+            this.ptbLoGo.Size = new System.Drawing.Size(180, 138);
             this.ptbLoGo.TabIndex = 3;
             // 
             // FormMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkSlateGray;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(774, 442);
+            this.ClientSize = new System.Drawing.Size(1032, 544);
             this.Controls.Add(this.ptbLoGo);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.pnMain);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FormMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Phần Mềm Quản Lý Bán Hàng";
